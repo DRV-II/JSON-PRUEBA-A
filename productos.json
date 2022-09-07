@@ -1,0 +1,14 @@
+[
+    {
+        "nombre" : "JOJOS",
+        "precio" : 10000
+    },
+    {
+        "nombre" : "SPNKR", 
+        "precio" : 30000
+    },
+    {
+        "nombre" : "Golden-gun",
+        "precio" : 100000000
+    }
+]
