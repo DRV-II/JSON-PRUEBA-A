@@ -1,14 +1,23 @@
 [
     {
         "nombre" : "JOJOS",
-        "precio" : 10000
+        "precio" : 10000,
+        "cantidad" : 8,
+        "descripcion" : "Jonathan, Joseph, Jotaro, Josuke, Giorno, Jolyne, Johny, Josuke II",
+        "color" : "Negro"
     },
     {
         "nombre" : "SPNKR", 
-        "precio" : 30000
+        "precio" : 30000,
+        "cantidad" : 12,
+        "descripcion" : "Bazuka primaria de la UNSC",
+        "color" : "Gris"
     },
     {
         "nombre" : "Golden-gun",
-        "precio" : 100000000
+        "precio" : 100000000,
+        "cantidad" : 1,
+        "descripcion" : "007: Golden Eye",
+        "color" : "Dorado"
     }
 ]
